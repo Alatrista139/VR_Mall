@@ -5,3 +5,4 @@ There is movement action in the application.
 The accelerometer sensor of the phone is used for the movement function. 
 In order to use the application, the gyroscope and accelerometer sensors must be present on the phone.
 The app is an example for the vr shopping app idea.
+The program is built on Unity.
